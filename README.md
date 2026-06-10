@@ -1,4 +1,5 @@
-# Road to Senior Dev 🚀
+# Road to Senior Dev <img width="49" height="64" alt="image" src="https://github.com/user-attachments/assets/fdbe1e4c-635e-45a0-80b9-2c93642c4849" />
+
 
 This repository is a personal laboratory containing a series of progressive coding challenges. I am building these projects to drastically improve my architectural and backend engineering skills. 
 
@@ -6,7 +7,7 @@ My ultimate goal is to master complex, real-world system designs, transitioning 
 
 ---
 
-## 🎯 Core Focus Areas
+## Core Focus Areas
 Every advanced exercise in this repository is designed to eventually incorporate the following real-world scenarios:
 * **Web Services:** Building robust APIs with multiple endpoints and proper layer separation.
 * **Database & Caching:** Mastering RDBMS (PostgreSQL) and Redis for high performance.
@@ -16,7 +17,7 @@ Every advanced exercise in this repository is designed to eventually incorporate
 
 ---
 
-## 🧗 The Progression Matrix
+##  The Progression Matrix
 To avoid being overwhelmed, I am tackling problems through a structured, 5-level progression system. 
 
 ### Level 1: Core Go & In-Memory APIs
@@ -40,6 +41,8 @@ To avoid being overwhelmed, I am tackling problems through a structured, 5-level
 * **Scope:** Implementing Exponential Backoff retries, Dead Letter Queues, Circuit Breakers, and Graceful Shutdowns.
 
 ---
+
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/8ca12693-6da9-4be7-8e0c-5d93a61f269d" />
 
 ## 🤖 The AI Mentor Prompt Pattern
 I use the following prompt with an LLM to generate custom, progressive challenges based on my current level. 
